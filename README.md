@@ -1,8 +1,8 @@
 # ml_app
 
 # How:
-# 1. Download MLProcessor.zip
-# 2. Unzip it, the executable file is in it.
+1. Download MLProcessor.zip
+2. Unzip it, the executable file is in it.
 
 # Outline:
 1. Purpose of this software
