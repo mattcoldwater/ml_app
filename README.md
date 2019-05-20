@@ -1,4 +1,4 @@
-# ml_app
+# Machine Learning Application
 
 # How:
 1. Download MLProcessor.zip
