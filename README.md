@@ -1,4 +1,4 @@
-# Machine Learning Application
+﻿# Machine Learning Application
 
 # How:
 1. Download MLProcessor.zip
@@ -72,7 +72,6 @@
     Enter a peptide string you want to predict whether it has the same function of positive data in previous classification dataset. 
     Select the model you want. For KNN model, you should select proper value for K which has been reflected in previous plot.
     Later, the program will provide you the predicting result of positive/negative.
-
 
 
 Great thanks to to my teammates!
