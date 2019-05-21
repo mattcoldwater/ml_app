@@ -76,4 +76,4 @@
 
 Thanks to to my teammates!
 
-    Lirong Wang, Binbin Huang, Dinglin Xia, Minjue Zhang, Nuoyao Yang
+   Lirong Wang, Binbin Huang, Dinglin Xia, Minjue Zhang, Nuoyao Yang
