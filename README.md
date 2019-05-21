@@ -74,6 +74,6 @@
     Later, the program will provide you the predicting result of positive/negative.
 
 
-Thanks again for your using:)
+Thanks to to my teammates!
 
-Members: Haoyu Wu (Me), Lirong Wang, Binbin Huang, Dinglin Xia, Minjue Zhang, Nuoyao Yang
+    Lirong Wang, Binbin Huang, Dinglin Xia, Minjue Zhang, Nuoyao Yang
